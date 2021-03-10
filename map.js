@@ -59,7 +59,7 @@ function createMarker(map, location, infowindow) {
   };
 
   var icon = {
-    url: "nasi-lemak.png", // url
+    url: "https://i.imgur.com/ugIoN4p.png", // url
     scaledSize: new google.maps.Size(50, 50), // scaled size
     origin: new google.maps.Point(0,0), // origin
     anchor: new google.maps.Point(0, 0) // anchor
