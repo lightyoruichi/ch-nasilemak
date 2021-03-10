@@ -1,0 +1,19 @@
+#map {
+  position: absolute;
+  top: 7%; left: 0;
+  width: 100%; height: 100%;
+	}
+.pop {
+	font-family: 'Inter', sans-serif;
+	font-weight: normal;
+}
+
+
+body {
+	font-family: 'Inter', sans-serif;
+	text-align: center;
+}
+
+@-ms-viewport{
+  width: device-width;
+}
